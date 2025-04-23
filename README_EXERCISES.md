@@ -3,4 +3,10 @@
 
 - yarn install
 - yarn generate
-- src/day1
+- `src/day1/LinearSearchList.ts`
+
+- test alg. 
+
+```sh
+npx jest Linear
+```
