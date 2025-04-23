@@ -10,3 +10,5 @@
 ```sh
 npx jest Linear
 ```
+
+## BinarySearchList
